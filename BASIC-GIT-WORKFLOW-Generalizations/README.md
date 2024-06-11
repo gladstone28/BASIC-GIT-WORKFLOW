@@ -16,3 +16,6 @@ You have now been introduced to the fundamental Git workflow. You learned a lot!
   - git diff shows the difference between the working directory and the staging area
   - git commit permanently stores file changes from the staging area in the repository
   - git log shows a list of all previous commits
+
+
+![](./Basic-Git-Workflow.png)
